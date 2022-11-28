@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url("Images/6.jfif");
+    
+}
+
+h1 {
+    color:rgb(0, 4, 255);
+    font-size: 80px;
+}
+
+button {
+ font-size: 50px;
+ background-color: aquamarine;
+}
